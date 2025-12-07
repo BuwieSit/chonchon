@@ -3,10 +3,9 @@
 
 @theme {
   --font-poppins: "Poppins", sans-serif;
-  --font-cursive: "Ballet", cursive;
-  --font-normal: "Shadows Into Light", cursive;
+  --font-custom-cursive: "Ballet";
+  --font-normal: "Shadows Into Light";
+  --color-custom-black: "#28282B";
+
 }
 
-body {
-  background-color: pink;
-}
