@@ -10,7 +10,7 @@ export default function ThirdPage() {
     
     const navigate = useNavigate();
     const handleClick = () => {
-        navigate('/')
+        navigate('/summary')
     }
 
     return(

@@ -16,7 +16,7 @@ export default function Home() {
     return (
         <>
             <ScreenContainer>
-                <Button text="Click Me!" bgColor={'bg-white'} onClick={handleClick}/>
+                <Button text="Hello Chòn Chòn!" bgColor={'bg-white'} onClick={handleClick}/>
             </ScreenContainer>
 
         </>
