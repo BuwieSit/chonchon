@@ -12,7 +12,7 @@ export default function Summary() {
 
     return (
         <>
-            <ScreenContainer bgColor='bg-white'>
+            <ScreenContainer bgColor='bg-[#FFDEAD]'>
                 <Button text={"Happy Birthday, Chòn Chòn!"} fontColor={'text-white'} bgColor={'bg-[#28282B]'} onClick={handleClick}/>
             </ScreenContainer>
         </>

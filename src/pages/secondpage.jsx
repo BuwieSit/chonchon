@@ -12,8 +12,8 @@ export default function SecondPage() {
     }
     return(
         <>
-            <ScreenContainer bgColor='bg-pink-500'>
-                <Button text={"Happy Birthday!"} bgColor={'bg-green-300'} onClick={handleClick}/>
+            <ScreenContainer bgColor='bg-red-300'>
+                <Button text={"Happy Birthday!"} bgColor={'bg-green-600'} onClick={handleClick}/>
             </ScreenContainer>
             
         </>

@@ -15,8 +15,8 @@ export default function ThirdPage() {
 
     return(
         <>
-            <ScreenContainer bgColor='bg-green-300'>
-                <Button text={"Keep Going!"} bgColor={'bg-[#28282B]'} fontColor={'text-white'} onClick={handleClick}/>
+            <ScreenContainer bgColor='bg-green-600'>
+                <Button text={"Keep Going!"} bgColor={'bg-[#FFDEAD]'} fontColor={'text-black'} onClick={handleClick}/>
             </ScreenContainer>
             
         </>
